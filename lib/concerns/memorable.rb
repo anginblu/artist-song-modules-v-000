@@ -12,7 +12,7 @@ module Memorable
 
  module InstanceMethods
    def initialize
-     # some more code coming soon!
+     self.all
    end
  end
  
